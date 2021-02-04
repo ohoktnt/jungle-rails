@@ -20,6 +20,9 @@ Rails.application.routes.draw do
     resources :categories, only: [:index, :new, :create]
   end
 
+  resources :users, only: [:create, :new]
+  # prob have to change to only later
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
