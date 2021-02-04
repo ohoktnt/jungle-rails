@@ -21,6 +21,9 @@ Rails.application.routes.draw do
   end
 
   resources :users, only: [:create, :new]
+
+  resources :sessions, only: [:new, :create, :destroy]
+   get '/logout' => 'sessions#destroy'
   # prob have to change to only later
 
   # The priority is based upon order of creation: first created -> highest priority.
