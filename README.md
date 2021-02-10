@@ -17,11 +17,11 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 4. Fixed Checking out with empty cart to show friendly message and link to home page
 
 ## Screenshots
-![Jungle Home Page]()
+![Jungle Home Page](https://github.com/ohoktnt/jungle-rails/blob/master/docs/Jungle-Homepage.png?raw=true)
 
-![Jungle Order Details Page]()
+![Jungle Order Details Page](https://github.com/ohoktnt/jungle-rails/blob/master/docs/Jungle-OrderDetails.png?raw=true)
 
-![Jungle Admin Categories Page]()
+![Jungle Admin Categories Page](https://github.com/ohoktnt/jungle-rails/blob/master/docs/Jungle-Admin-Categories.png?raw=true)
 
 ## Setup
 
