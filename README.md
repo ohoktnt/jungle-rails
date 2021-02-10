@@ -1,7 +1,27 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example. Goals reached from this project include:
+- Learning how to navigate an existing code-base
+- A simulation of the real world for feature and bug-fix requests
+- Apply previous learning tactics to research and become familiar with a new paradigm, language and framwork
 
+## Features added
+1. Sold Out Badge if a product has 0 quantity
+2. Added Categories to Admin Users, ability to view, create and use new categories
+3. Added user authentication
+
+## Enhancements and Bugs
+1. Improve order page to include details of the items ordered and the email used
+2. Correct formatting for product cost and order totals
+3. Fixed Admin Security to access admin functionality
+4. Fixed Checking out with empty cart to show friendly message and link to home page
+
+## Screenshots
+![Jungle Home Page]()
+
+![Jungle Order Details Page]()
+
+![Jungle Admin Categories Page]()
 
 ## Setup
 
